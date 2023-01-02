@@ -1,7 +1,7 @@
 ## Lift-Simulation : <a href="https://lift-simulation-realdev.netlify.app/" target="_blank">Click Here</a>
 
-<a href="https://lift-simulation-realdev.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/107163260/210220190-a9655f16-702f-4215-a74b-53af884e0aa5.gif" /></a>
-
+<a href="https://lift-simulation-realdev.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/107163260/210228412-d4b62f5a-10b3-4a21-819f-1b69d8df25f9.gif" /></a>
+![Lift-Simulation gif]()
 ### In this Project we Create a web app where you can simulate lift mechanics for a client
 
 ## Blog: 
