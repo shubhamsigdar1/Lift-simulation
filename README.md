@@ -6,7 +6,7 @@
 
 ## Blog: 
 
-   &#x2022; <a href="https://shubhamsigdar.hashnode.dev/how-i-build-lift-simulation-using-html-css-and-javascript" target="_blank">Link1</a><br>
+   &#x2022; <a href="https://shubhamsigdar.hashnode.dev/how-i-build-lift-simulation-using-html-css-and-javascript" target="_blank">Link</a><br>
     
  # How It's Made:
 
