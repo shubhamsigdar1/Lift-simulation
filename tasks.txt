@@ -1,0 +1,71 @@
+Task1. input liya and when we click simulate then first section hide and our second page
+shown(complete)
+
+Task2. restart kra game ko first ma aajaye(complete)(Read import and export)
+
+Task3. create floor(error occur while creating div element in second page via javascript
+give error:-
+ document.getElementsByClassName(...).appendChild is not a function (DONE)
+
+Task4. add hr and Floor to the div class box(Done)
+
+Task5. up and down(make in column designing in css)(Done)
+
+task6. How to create 1 lift 
+       1. lift create krh liya(complete)
+       2. abh huma lift shirfh floor 0index ka liye create krna hai(complete)
+
+
+task7. abh huma lift input ma no. dalta utna lift create hona chaiye floor 0 index(complete)
+       1. changes button and no. of lifts ak div ma daal diye
+       2. hr lift ak class name lift and id `lift${j}`
+       3. position absolute and position relative ma dikkat ho rhi hai
+
+task8. How to move a lift(25/12/2022) (complete)
+
+task9. Upon clicking a particular button on the floor, a lift goes to that
+      floor(complete)
+task10. we have to move lift upon click up button  (28/12/2022)(complete)
+       1.flag daal denga true means up and false means down
+       2. previous =nUp-i(currentFloor) when we press new up button it will 
+        first check if(prev<newFloorupButton) then go up otherwise no action will
+        perform (complete)
+
+task 11:  Lift moving at 2s per floor(29-12-2022)(complete)
+          let oldFloor=1
+          2*(nUp-i-oldFloor)
+          oldFloor=nUp-i
+          transition duration add by javascript
+
+task 12. we have to move all lift on particular floor after clicking particular
+       button of floor(complete)
+       1. 4lift ak array ma liye
+       2. loop chla deta
+       3. intial data state sbh ma free rhaga
+       4. condition check kraga sbh lift ko loop ma if free then move then break
+          and loop new start hoga
+
+Problem: up click hoga then uska nicha wala kaam nhi hoga(complete)
+
+task 12. for open and close (read transition transform)-complete
+
+
+
+task 14. problem- when lift go from 1st floor its take 2s per floor but particular floor 
+         per floor pahuchna sa lift 0s sa start krh rha hai)(30/12/2022)(complete)
+
+task 16. jbh lift down aayegi tvh problem ho rhi hai uska transition (30/12/2022)
+         (complete)
+
+task 13. Lift having doors open in 2.5s, then closing in another 2.5s(31/12/2022)
+(incomplete)
+task 15. gate1 or gate2 but huma gate id lena hoga sbhi lift ka liye because first
+         lift ka hee door open ho rha hai(31/12/2022)(incomplete)
+task 16. down button remove(31/12/2022)
+task 17. when we click simulate button sound start(31/12/2022)
+task 13. when 18 floor hogye then we don't want ki scroll krka floor dekha
+
+task 14. Depend on screen size lift lena chaiye
+
+task 15. when no input is enter then alert 
+
