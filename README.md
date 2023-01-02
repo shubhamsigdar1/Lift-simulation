@@ -31,7 +31,7 @@ When I improve this project, I would like to add background lift sound when i cl
 
 ## Lessons Learned:
 
-We learn how to use transition properties, how to apply css by using javascript, Dom manupulation, to make lift simulation every device friendly we learn how to apply media query on javascript. 
+I learn how to use transition properties, how to apply css by using javascript, Dom manupulation, to make lift simulation every device friendly we learn how to apply media query on javascript. 
 
 ## More Projects
 
